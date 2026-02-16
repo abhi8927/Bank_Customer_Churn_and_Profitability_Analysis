@@ -131,6 +131,6 @@ bank-customer-churn-analytics/
 ## 📬 Contact
 If you have questions about this project or would like to discuss analytics, data, or BI opportunities, feel free to reach out.
 
-- **LinkedIn:** https://www.linkedin.com/in/collin-martin-6461482b5/
-- **Email:** collin.martinn04@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-744145266/
+- **Email:** abhishekkumar248927@gmail.com
 
