@@ -1,7 +1,7 @@
 CREATE TABLE stg_churn (
   RowNumber INT,
   CustomerId BIGINT,
-  Surname VARCHAR(100),
+  Surname VARCHAR(200),
   CreditScore INT,
   Geography VARCHAR(50),
   Gender VARCHAR(10),
